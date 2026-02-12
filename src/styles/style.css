@@ -1,0 +1,56 @@
+/* ========== GLOBAL RESET ========== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f6f8;
+}
+
+/* ========== UPLOAD AREA ========== */
+.upload-box {
+  border: 2px dashed #851bc6;
+  background: linear-gradient(135deg, #f3e5f5, #ffffff);
+  padding: 32px;
+  text-align: center;
+  border-radius: 16px;
+  transition: 0.3s ease;
+}
+
+.upload-box:hover {
+  background: #ede7f6;
+}
+
+/* ========== VIEW TOGGLE ========== */
+.toggle-btn {
+  margin-right: 10px !important;
+  border-radius: 20px !important;
+}
+
+/* ========== SONG LIST ACTIVE ROW ========== */
+.active-row {
+  background: linear-gradient(90deg, #ede7f6e9, #74f164) !important;
+  border-left: 4px solid #10e46c;
+}
+
+/* ========== SONG GRID ========== */
+.song-card {
+  border: 1px solid #eee !important;
+  border-radius: 16px !important;
+  transition: 0.3s ease !important;
+}
+
+.song-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.active-card {
+  border: 2px solid #5ae149 !important;
+  background: linear-gradient(135deg, #f3e5f5, #78f478) !important;
+}
+
+
