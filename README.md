@@ -30,25 +30,11 @@ bottom-fixed music player.
 ## Tech Stack
 
 -   React (Vite)
--   Material UI (MUI)
--   React Hooks
--   HTML5 Audio API
+-   Material UI (MUI)   
 
 ------------------------------------------------------------------------
 
 ## Installation
-
-Clone the repository:
-
-``` bash
-git clone <your-repo-link>
-```
-
-Navigate into the project:
-
-``` bash
-cd music-player
-```
 
 Install dependencies:
 
@@ -66,10 +52,10 @@ npm run dev
 
 ## Deployment
 
-LIVE LINK --------> "https://react-music-player-kappa-wine.vercel.app/"
+LIVE LINK --------> https://assessment-3-alpha.vercel.app/
 
 ------------------------------------------------------------------------
 
 ## Author
 
-Rounak Kantha
+Anisha Ghosh
